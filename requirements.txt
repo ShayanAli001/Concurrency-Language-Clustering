@@ -6,3 +6,4 @@ seaborn
 plotly
 jupyter
 tree-sitter
+tree-sitter
